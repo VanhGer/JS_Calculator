@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(118, 199, 199);
+}
+
+.calculator {
+    height: 75vh;
+    width: 30vw;
+    border: 10px solid;
+    border-radius: 10px;
+    margin-left: 34%;
+    margin-top: 5%;
+    padding: 2%;
+    background-color: antiquewhite;
+}
+
+.screen {
+    border: 2px solid;
+    border-radius: 10px;
+    height: 13vh;
+    padding: 3%;
+    background-color: white;
+    text-align: right;
+    font-size: 150%;
+}
+
+.buttons {
+    padding: 2%;
+}
+
+.btn {
+    height: 10vh;
+    width: 10vh;
+    font-size: 200%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.clear {
+    height: 10vh;
+    width: 22.5vh;
+    font-size: 200%;
+    margin-left: 4%;
+    margin-top: 2%;
+    background-color: rgb(53, 16, 187);
+}
+
+.del {
+    height: 10vh;
+    width: 22.5vh;
+    font-size: 200%;
+    margin-left: 4%;
+    margin-top: 2%;
+    background-color: rgb(146, 8, 8);
+}
